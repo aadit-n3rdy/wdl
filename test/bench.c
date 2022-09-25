@@ -39,6 +39,6 @@ int main(int argc, char** argv) {
 		} 
 		wdl_guesser_reset(&g);
 	}
-	printf("Accuracy: %lf %%\n", (double)total_correct / (double)test_count);
+	printf("Accuracy: %lf %%\n", (double)100.0 * (double)total_correct / (double)test_count);
 	printf("Average attempts: %lf\n", (double)total / (double)total_correct);
 }

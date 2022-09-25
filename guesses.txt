@@ -1,0 +1,12 @@
+Word is genie
+
+Guess: aeros
+Guess: lenti
+Guess: denim
+Guess: genip
+Guess: genic
+Guess: genin
+Guess: genii
+Guess: genie
+
+Done in attempts: 8
